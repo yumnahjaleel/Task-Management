@@ -1,24 +1,23 @@
-#### Task-Management
+# Task-Management
+
+
+## Table of Contents
+
+### 1.Project Overview
+### 2.System Requirements & Setup
+### 3.Architecture & Design Patterns
+### 4.Project Modules
+### 5.Database Configuration
+### 6.Entity Design & Implementation
+### 7.Security & Authentication
+### 8.Development Guidelines
+### FAQ
 
 ---
 
-### Table of Contents
+# Project Overview
 
-# 1 Project Overview
-# 2 System Requirements & Setup
-# 3 Architecture & Design Patterns
-# 4 Project Modules
-# 5 Database Configuration
-# 6 Entity Design & Implementation
-# 7 Security & Authentication
-# 8 Development Guidelines
-# FAQ
-
----
-
-## Project Overview
-
-# Core Purpose
+## Core Purpose
 A team collaboration and task tracking system built on Agile principles, designed for managing software development workflows with role-based access control.
 Key Features
 
@@ -31,7 +30,7 @@ Real-time collaboration with file attachments
 Comprehensive reporting and analytics
 
 
-# Technology Stack
+## Technology Stack
 
 Backend: Java (JDK 8/17), Spring Boot, Maven
 Database: MySQL or MongoDB (choose one)
@@ -43,7 +42,7 @@ Version Control: GitHub
 CI/CD: Jenkins, Docker (mentioned for future integration)
 
 
-# API Architecture
+## API Architecture
 
 RESTful APIs responding with JSON
 Frontend connects to backend APIs for dynamic data
