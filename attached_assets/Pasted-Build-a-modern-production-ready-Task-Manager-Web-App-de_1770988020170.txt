@@ -1,0 +1,115 @@
+Build a modern, production-ready Task Manager Web App designed for a CS student who values clean UX, speed, and subtle aesthetics.
+
+Core Concept
+
+A minimal yet powerful productivity system combining classic task management with smart AI assistance. The app must feel lightweight, elegant, and distraction-free.
+
+Design & Vibe
+
+Visual style: soft, minimal, slightly edgy, calm but intelligent
+
+Avoid loud colors and clutter
+
+Smooth micro-interactions, polished typography
+
+Feels like a blend of academic focus + creative journaling tool
+
+Responsive across desktop + mobile
+
+Functional Requirements
+
+1. Task System
+
+Create, edit, delete tasks
+
+Fields: title, description, priority, due date, tags, status
+
+Status types: todo, in progress, completed, archived
+
+Drag-and-drop task movement
+
+Subtasks support
+
+2. Organization
+
+Categories / Projects
+
+Tagging & filtering
+
+Smart sorting (deadline, priority, recently added)
+
+Search bar with instant filtering
+
+3. AI-Enhanced Features
+
+Natural language task creation ("Finish DSA assignment tomorrow")
+
+AI task breakdown (split large tasks into steps)
+
+Smart suggestions (detect vague tasks and refine)
+
+Optional daily planning helper ("What should I focus on today?")
+
+No heavy AI dependencies; assume API abstraction
+
+4. Productivity Utilities
+
+Deadline indicators / urgency logic
+
+Progress visualization (simple, not flashy)
+
+Optional focus mode (hide non-essential UI)
+
+Keyboard shortcuts
+
+5. Data & Persistence
+
+Local storage or lightweight DB (developer choice)
+
+No authentication needed initially, but structure code for future user accounts
+
+Clean data model
+
+Technical Expectations
+
+Clean folder structure
+
+Readable, modular code
+
+No unnecessary libraries
+
+Prioritize performance and simplicity
+
+Include comments only where meaningful
+
+Avoid overengineering
+
+Stack Guidance (choose sensible defaults)
+
+Frontend: React / Vanilla JS / Next.js (developer choice)
+
+Styling: Tailwind or simple CSS
+
+Backend optional (only if needed)
+
+Keep setup beginner-friendly
+
+UX Details
+
+Fast interactions, no lag
+
+Smooth state updates
+
+Logical empty states
+
+Pleasant but subtle animations
+
+Deliverables
+
+Fully functional app
+
+Clear setup instructions
+
+Brief explanation of architecture
+
+Suggestions for future upgrades (auth, sync, mobile app, analytics)

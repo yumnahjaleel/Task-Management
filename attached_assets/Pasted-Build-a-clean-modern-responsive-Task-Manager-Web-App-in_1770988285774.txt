@@ -1,0 +1,132 @@
+Build a clean, modern, responsive Task Manager Web App inside Replit.
+
+The app should feel minimal, intelligent, and polished — designed for a CS student who values clarity, speed, and subtle aesthetics. Prioritize simplicity, smooth UX, and maintainable code.
+
+🎨 Design & Experience
+
+Minimal, calm, slightly edgy visual style
+
+No loud colors, avoid clutter
+
+Smooth micro-interactions & subtle animations
+
+Clean typography and spacing
+
+Fully responsive (desktop + mobile)
+
+Fast UI updates, no jank
+
+✅ Core Features
+1. Task Management
+
+Create / edit / delete tasks
+
+Task fields:
+
+Title
+
+Description
+
+Priority (low / medium / high)
+
+Due date
+
+Tags
+
+Status (todo / in progress / completed / archived)
+
+Subtasks support
+
+Drag-and-drop status changes
+
+2. Organization & Navigation
+
+Projects / Categories
+
+Tagging system
+
+Filtering & sorting:
+
+By priority
+
+By due date
+
+By status
+
+Recently added
+
+Instant search bar
+
+3. AI-Like Smart Behaviors
+
+(Implement logic placeholders; no real AI required)
+
+Natural language task input:
+
+Example: "Finish DBMS notes tomorrow 5pm"
+
+Task breakdown helper:
+
+Split large tasks into subtasks
+
+Smart hints:
+
+Detect vague tasks like "Study" → suggest refinement
+
+Daily focus suggestion logic
+
+4. Productivity Utilities
+
+Deadline urgency indicators
+
+Lightweight progress tracking
+
+Optional Focus Mode (hide distractions)
+
+Keyboard shortcuts (basic)
+
+💾 Data & Persistence
+
+Use localStorage for persistence
+
+Design a clean data model
+
+Code structured for future DB / auth expansion
+
+⚙️ Technical Constraints (Important)
+
+Must run smoothly in Replit with zero complex setup
+
+Avoid heavy dependencies
+
+Clean modular architecture
+
+Readable, beginner-friendly code
+
+Sensible defaults only
+
+🧱 Stack Requirements
+
+Use:
+
+Frontend: React (preferred for Replit)
+
+Build Tool: Vite
+
+Styling: Tailwind CSS (lightweight usage)
+
+State: Simple React state (no Redux)
+
+📦 Deliverables
+
+Provide:
+
+Fully working app
+
+Clean folder structure
+
+Setup instructions for Replit
+
+Short architecture explanation
+
+Future upgrade ideas
